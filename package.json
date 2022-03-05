@@ -1,0 +1,44 @@
+{
+  "name": "gatsby-starter-portfolio-minimal-theme",
+  "version": "1.0.0",
+  "description": "Lager devs Portfolio",
+  "scripts": {
+    "clean": "gatsby clean",
+    "dev": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+    "eslint-config-airbnb": "^19.0.4",
+    "gatsby": "^4.0.2",
+    "gatsby-theme-portfolio-minimal": "latest",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "author": "Konstantin Münster <mail@konstantin.digital>",
+  "license": "0BSD",
+  "starter-name": "gatsby-starter-portfolio-minimal-theme",
+  "homepage": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme/issues"
+  },
+  "keywords": [
+    "react",
+    "gatsby",
+    "gatsby-theme",
+    "PWA",
+    "portfolio",
+    "showcase",
+    "minimal",
+    "animations",
+    "dark-mode",
+    "gdpr-compliant"
+  ]
+}
